@@ -13,7 +13,7 @@
 - Messaging API
 - 銀行API　sunabar（GMOあおぞらネット銀行様より）
 - AWS Lambda
-- Javascript
+- Javascript<br>
 ※今回の開発では、開発環境がLambdaのため、それぞれのソースコードを共有するためにGitHubを使用しています。
 
 
